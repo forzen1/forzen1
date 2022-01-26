@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @forzen1
-- 👀 I’m interested in ...selenium webdreiver with Java
+- 👀 I’m interested in ...selenium webdriver with Java
 - 🌱 I’m currently learning ...TestNG/cucumber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
